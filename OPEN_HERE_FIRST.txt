@@ -1,0 +1,18 @@
+ECOGRID — FINAL CLEAN VERSION
+
+1. Extract this ZIP.
+2. Open the extracted folder directly in VS Code.
+3. You should see package.json immediately (not inside another ECOGRID folder).
+4. Terminal: npm install
+5. Terminal: npm run dev
+6. Open the Local URL shown by Vite.
+
+Do NOT double-click index.html.
+
+Features in this build:
+- EcoAI multi-item search: enter several everyday waste items in one sentence.
+- 11 material streams with aliases such as bottle, newspaper, phone, carton, peels, tyre, etc.
+- Real-world photo references from Unsplash for waste and product cards.
+- Recycling Lab: input -> AI sorting -> processing -> recovered material.
+- Product Studio: recovered material -> reprocessor -> final product.
+- IoT City: smart-bin fill levels, alerts and route-priority simulation.
